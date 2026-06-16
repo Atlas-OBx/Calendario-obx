@@ -37,11 +37,11 @@ function Footer() {
         <div className="footer__item">
           <EmailIcon />
           <a
-            href="mailto:contato@observatoriodasbaixadas.org"
+            href="mailto:administrativo@observatoriodasbaixadas.org.br"
             className="footer__link"
             id="footer-email"
           >
-            contato@observatoriodasbaixadas.org
+            administrativo@observatoriodasbaixadas.org.br
           </a>
         </div>
 
