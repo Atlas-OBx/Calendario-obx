@@ -702,6 +702,7 @@
     padding: 14px 0;
     width: 100%;
     justify-content: center;
+    text-align: center;
   }
   .footer__item:last-child { border-bottom: none; }
 
